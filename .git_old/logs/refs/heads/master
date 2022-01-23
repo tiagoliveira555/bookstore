@@ -1,0 +1,18 @@
+0000000000000000000000000000000000000000 f04199e04812f30b26078a810b19c945d8175822 tiagoliveira555 <tiagoliveira555@gmail.com> 1642884648 -0300	commit (initial): initial commit
+f04199e04812f30b26078a810b19c945d8175822 57ff03c251866392ec0f07463772bcd343e32db3 tiagoliveira555 <tiagoliveira555@gmail.com> 1642885572 -0300	commit: angular material instalado no projeto
+57ff03c251866392ec0f07463772bcd343e32db3 f9f1377df982aa8c73ceed8538f512e6faf5c229 tiagoliveira555 <tiagoliveira555@gmail.com> 1642892942 -0300	commit: criado foot e nav
+f9f1377df982aa8c73ceed8538f512e6faf5c229 53114dfbaae0e7a1ec58ed39c1d5957502e24403 tiagoliveira555 <tiagoliveira555@gmail.com> 1642898781 -0300	commit: home implementado com rota
+53114dfbaae0e7a1ec58ed39c1d5957502e24403 1d55b676b064b466e0ae620b3967924ecd27eb2d tiagoliveira555 <tiagoliveira555@gmail.com> 1642900869 -0300	commit: criado a tabela de categorias
+1d55b676b064b466e0ae620b3967924ecd27eb2d 45611612a985de4599763e348f91a271460e63fb tiagoliveira555 <tiagoliveira555@gmail.com> 1642902500 -0300	commit: cateagoria-read foi implementado
+45611612a985de4599763e348f91a271460e63fb e0beceacef240899e6d06901bfd00e74fd2e3202 tiagoliveira555 <tiagoliveira555@gmail.com> 1642903580 -0300	commit: criado o botão de Criar catetoria
+e0beceacef240899e6d06901bfd00e74fd2e3202 a8ed77c8a2121b78c9740d8182443b1a1bd9dd94 tiagoliveira555 <tiagoliveira555@gmail.com> 1642937665 -0300	commit: metodo CREATE implementado para categoria
+a8ed77c8a2121b78c9740d8182443b1a1bd9dd94 6a9f81ee860b9fcd1fc1a7cc0fb335b3e224a2ad tiagoliveira555 <tiagoliveira555@gmail.com> 1642937801 -0300	commit: finalizando o método CREATE
+6a9f81ee860b9fcd1fc1a7cc0fb335b3e224a2ad 481ec83ec7d0a36e9290303c640456ad14b5736c tiagoliveira555 <tiagoliveira555@gmail.com> 1642940624 -0300	commit: implementado o metodo DELETE
+481ec83ec7d0a36e9290303c640456ad14b5736c 0d7ba5c1cbb6a0dccda1037286d039a1021bfd4f tiagoliveira555 <tiagoliveira555@gmail.com> 1642943118 -0300	commit: update para categoria foi implementado
+0d7ba5c1cbb6a0dccda1037286d039a1021bfd4f c00030608c742fef28cb4c324526e81c0af11108 tiagoliveira555 <tiagoliveira555@gmail.com> 1642945496 -0300	commit: leitura de todos livros por categoria implementado
+c00030608c742fef28cb4c324526e81c0af11108 606d7a708e890c64fa10f923e49f475b42b0676b tiagoliveira555 <tiagoliveira555@gmail.com> 1642949867 -0300	commit: implementado o CREATE do Livro
+606d7a708e890c64fa10f923e49f475b42b0676b 78e656355ca03258bee559c97a06016ebe8cf71c tiagoliveira555 <tiagoliveira555@gmail.com> 1642951244 -0300	commit: update para livro implemtentado
+78e656355ca03258bee559c97a06016ebe8cf71c 51cc97d139a755499985471fdb95487aabb5e787 tiagoliveira555 <tiagoliveira555@gmail.com> 1642952377 -0300	commit: delete para livro implementado
+51cc97d139a755499985471fdb95487aabb5e787 5fb11a8c623703d0595b1eadd18b907f6dcaf989 tiagoliveira555 <tiagoliveira555@gmail.com> 1642953741 -0300	commit: READ para livro implementado
+5fb11a8c623703d0595b1eadd18b907f6dcaf989 5d7c04ff9d7fd4ac6a2d879d7f8b5a1c89a138a4 tiagoliveira555 <tiagoliveira555@gmail.com> 1642953991 -0300	commit: colocado para produção
+5d7c04ff9d7fd4ac6a2d879d7f8b5a1c89a138a4 f8b5fe2e9c0bb035ba33b49faed1e9b3f7dafad2 tiagoliveira555 <tiagoliveira555@gmail.com> 1642954152 -0300	commit: removendo produção
